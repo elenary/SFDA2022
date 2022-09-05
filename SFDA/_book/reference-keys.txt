@@ -1,0 +1,14 @@
+fig:nice-fig
+tab:nice-tab
+вместо-предисловия
+intro
+literature
+methods
+applications
+example-one
+example-two
+final-words
+bibliography-book.bib-packages.bib
+исходные-понятия-статистики
+зачем-нужна-статистика
+выборка-должна-быть-репрезентативна
